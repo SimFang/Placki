@@ -1,0 +1,6 @@
+{
+  "name": "Placki",
+  "description": "Pitch nous ton idée et découvre les 10 meilleurs freelances sur Fiverr et Malt sélectionnés par IA pour concrétiser ton projet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
